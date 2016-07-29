@@ -61,3 +61,8 @@ var y = array.map(function(m){
 var z = array.reduce(function(q, r){
    return a * b;
  });
+ const is a signal that the identifier won’t be reassigned.
+ let is a signal that the variable may be reassigned.
+ var may or may not be reassigned
+ The rest parameter allows us to represent an indefinite number of arguments as an array.
+ modules is refers to small units of independent, reusable code.
